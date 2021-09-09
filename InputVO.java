@@ -22,4 +22,5 @@ public class InputVO implements Serializable {
     private String ramark1;
     private String ramark2;
     private String ramark3;
+    private String nextSignal;
 }
